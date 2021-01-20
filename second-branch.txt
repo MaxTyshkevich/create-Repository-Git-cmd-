@@ -1,1 +1,1 @@
-some text user1: add(my conflict) text add text add text end;
+some text user1: add(my conflict) text add te(my conflict)xt add text end;

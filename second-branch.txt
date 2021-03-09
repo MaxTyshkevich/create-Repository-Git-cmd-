@@ -1,1 +1,6 @@
+
 some text user1: add(my conflict) text add te(my conflict)xt add text end;
+
+
+lection 4.5 комит на отделенной head и копирование его cherry-pick с номером этого commit
+
